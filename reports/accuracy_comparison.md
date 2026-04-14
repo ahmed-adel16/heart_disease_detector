@@ -7,10 +7,10 @@ Its main strength is explainability. Its main weakness is that it may miss cases
 
 Test results on the same dataset:
 
-- Accuracy: `0.395122`
-- Precision: `0.424000`
-- Recall: `0.504762`
-- F1-score: `0.460870`
+- Accuracy: `0.497561`
+- Precision: `0.505102`
+- Recall: `0.942857`
+- F1-score: `0.657807`
 
 ## Decision Tree Model
 
@@ -29,10 +29,10 @@ It is still explainable compared to many other machine learning models, but it i
 
 | Metric | Expert System | Decision Tree |
 |--------|--------------|---------------|
-| Accuracy | 0.395 | 0.922 |
-| Precision | 0.424 | 0.908 |
-| Recall | 0.505 | 0.943 |
-| F1-score | 0.461 | 0.925 |
+| Accuracy | 0.498 | 0.922 |
+| Precision | 0.505 | 0.908 |
+| Recall | 0.943 | 0.943 |
+| F1-score | 0.658 | 0.925 |
 
 - The expert system is simpler and easier to explain.
 - The decision tree is better for learning patterns from data.
